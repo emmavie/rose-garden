@@ -1,0 +1,48 @@
+{
+  "name": "rose-garden",
+  "displayName": "Rose Garden",
+  "description": "A sweet and refreshing colourful light VS code theme with pinks, purples and green",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "auth": {
+    "name": "Emmavie",
+    "url": "https://github.com/emmavie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmavie/rose-garden"
+  },
+  "bugs": {
+		"url": "https://github.com/emmavie/rose-garden/issues"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+		"color",
+		"theme",
+		"color-theme",
+		"light",
+    "pink",
+    "cute",
+    "purple",
+    "green",
+    "flora",
+    "rose",
+    "garden",
+    "colourful",
+    "girly"
+	],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rose Garden",
+        "uiTheme": "vs",
+        "path": "./themes/Rose Garden-color-theme.json"
+      }
+    ]
+  }
+  
+}
