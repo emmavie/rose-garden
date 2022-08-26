@@ -4,6 +4,7 @@
   "publisher": "emmavie",
   "description": "A sweet and refreshing colourful light VS code theme with pinks, purples and green",
   "version": "0.0.1",
+  "icon":"Images/Icon1.png",
   "engines": {
     "vscode": "^1.70.0"
   },
