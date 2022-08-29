@@ -3,7 +3,7 @@
   "displayName": "Rose Garden",
   "publisher": "emmavie",
   "description": "A sweet and refreshing colourful light VS code theme with pinks, purples and green",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "icon": "Images/Icon1.png",
   "engines": {
     "vscode": "^1.70.0"
