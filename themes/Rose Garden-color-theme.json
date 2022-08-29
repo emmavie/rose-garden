@@ -108,9 +108,9 @@
 	
 		// Git changes
 		"gitDecoration.addedResourceForeground": "#408c31",
-		"gitDecoration.modifiedResourceForeground": "#c088cc",
-		"gitDecoration.untrackedResourceForeground": "#76dda1",
-		"gitDecoration.stageModifiedResourceForeground": "#bef1bf",
+		"gitDecoration.modifiedResourceForeground": "#a471af",
+		"gitDecoration.untrackedResourceForeground": "#7db896",
+		"gitDecoration.stageModifiedResourceForeground": "#1b9821",
 		"gitDecoration.stageDeletedResourceForeground": "#f9656a",
 		"gitDecoration.deletedResourceForeground": "#e8326c",
 		"gitDecoration.ignoredResourceForeground": "#AAAAAA",
